@@ -10,12 +10,6 @@
 
 ## Langkah-Langkah Praktikum
 
-Website ini berjudul **“Informatics Gallery”**, yaitu sebuah halaman web yang menampilkan karya, ide, dan inspirasi di bidang teknologi dan informatika.  
-Konsepnya dibuat menarik dan ringan agar pengunjung bisa memahami isi tanpa merasa bosan.  
-Berikut penjelasan tiap bagian dari kode HTML-nya:
-
----
-
 ### 1. Bagian `<head>`
 Pada bagian `<head>` terdapat elemen-elemen penting seperti:
 - **`<meta charset>` dan `<meta viewport>`** → Agar website bisa ditampilkan dengan benar di semua perangkat.
